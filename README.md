@@ -7,4 +7,4 @@
 
 ### Please find the analysis codes in the "code_final" directory
 
-![](https://github.com/KoheiKumegawa/scCA_BC_2022/blob/main/figure1.png)
+![](https://github.com/KoheiKumegawa/scCA_BC_2022/blob/main/fig1_20251014.png)
